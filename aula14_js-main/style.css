@@ -1,0 +1,15 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: blue;
+}
+
+#titulo-dom{
+    color: yellow;
+}
+
+
+.paragrafo-custom{
+    text-align: justify;
+}
